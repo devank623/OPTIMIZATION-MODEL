@@ -1,5 +1,4 @@
 # OPTIMIZATION-MODEL
-# -OPTIMIZATION-MODEL
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -64,7 +63,6 @@ How to format and communicate results in a business-friendly way
 Understanding the trade-offs between different decisions in resource-limited environments
 
 Basic insight into operations research and optimization fields
-<img width="1697" height="937" alt="466474472-2f720812-36b5-445d-9d27-7c786e5772d0" src="https://github.com/user-attachments/assets/fd4f84e3-60aa-464c-ad72-5b3f74a5a7ff" />
 
 **Real-World Applications:**
 
